@@ -27,3 +27,4 @@ This repository contains the Python scripts to reproduce these findings:
 * NumPy
 * Matplotlib
 * Scipy
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18259775.svg)](https://doi.org/10.5281/zenodo.18259775)
